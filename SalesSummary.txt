@@ -1,0 +1,8 @@
+Sales Summary
+--------------------
+Filename: stores, sales: $88.88
+Filename: 201, sales: $501.22
+Filename: 202, sales: $1,234.22
+Filename: 203, sales: $99.00
+Filename: 204, sales: $88.88
+Total Sales: $2,012.20
